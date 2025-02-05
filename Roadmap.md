@@ -27,7 +27,7 @@
 - What are Static Websites and Dynamic Websites.
 - What is web hosting and how it works.
 
-## 3.  Internet Protocols:
+## 3. Internet Protocols:
 
 - What is TCP protocol and why is widely used
 - How Connection is established using TCP (3 Way handshake)
@@ -119,18 +119,18 @@
 - Introduction to FlexBox for aligning and structure - `flex-direction` , `order` , `flex-wrap` , `flex-grow` , `flex-shrink` , `justify-content` , `align-items` , `align-content` , `align-self` , `flex-basis` , `shorthand properties of flex`
 - Understanding Flex Grid for making grids using CSS.
 - Working with positional properties - `absolute` , `relative` , `static` , `sticky` , `fixed`.
-- Understanding Overflow -  `visible` , `hidden` , `scroll.`
+- Understanding Overflow - `visible` , `hidden` , `scroll.`
 - Working with Grouping Selectors.
 - Why we use Nested Selectors.
 
 ## 8. Interesting things about CSS ✌️
 
 - Applying pseudo classes and Pseudo Elements [ `hover` , `focus` , `after` , `before` , `active` ] .
-- Learning CSS Transitions  (`properties`, `duration`, `timing functions`, `delays`).
+- Learning CSS Transitions (`properties`, `duration`, `timing functions`, `delays`).
 - Creating with `Transform` (`translate`, `rotate`, `scale`, `skew` , `transform` , `rotate` ).
-- Working with `3D Transform`  ( `translate3d()` , `translateZ()` , `scale3d()` , `scaleZ()`, `rotate3d()` , `rotateZ()` , `perspective`
+- Working with `3D Transform` ( `translate3d()` , `translateZ()` , `scale3d()` , `scaleZ()`, `rotate3d()` , `rotateZ()` , `perspective`
 - Understanding `CSS Animation` ( `@keyframes` ).
-- Learning `CSS Frameworks`  [  `Tailwind` ,`Bootstrap` ].
+- Learning `CSS Frameworks` [ `Tailwind` ,`Bootstrap` ].
 
 ## 9. Responsive with CSS 🖥️
 
@@ -138,14 +138,14 @@
 - Measurement units for Responsive Design - `px(pixel)`, `in(inch),` `mm(millimetre)`, `%`, `rem`
 - Using Viewport meta element for Responsive.
 - Setting up `Images` and `Typography` for Responsiveness.
-- What are Media queries [ `@media` , `max-width` , `min-width`  ].
+- What are Media queries [ `@media` , `max-width` , `min-width` ].
 - Using Different function of CSS [ `clamp` , `max` , `min` ].
 - Understand HTML structure for Responsive Design.
 
 ### 10 Working With SASS (SASSY) my favorite 🤩
 
 - What is SASS? `Variables` ,`Nesting` ,`Mixins` ,`Functions and Operators` .
-- Setting up environment for  `SCSS`.
+- Setting up environment for `SCSS`.
 - SCSS or SASS? and Setting Up `SCSS`.
 - Working with SASS :- `Variables` , `Nesting` ,`Partials and Imports` ,`Mixins` ,`Inheritance/Extends` , `Functions` ,`Operators` .
 - Advanced Concepts :- `Control Directives` , `Color Functions` ,
@@ -164,7 +164,7 @@
 - JavaScript Data Types - [`float` , `number` , `string` , `boolean` , `null` , `array` , `object` , `Symbol` , `Undefined` ]
 - Some Important Values - [`undefined` , `null` , `NaN` , `Infinity` ]
 - Relative and Primitive Data Type in JavaScript
-- Basic Operators(Arithmetic, Assignment, Increment, Decrement, Comparison, Logical, Bitwise) - [`+` , `-` , `*` , `/` ,`++`  , `--` , `==` , `===` , `!=` ,`and more` ]
+- Basic Operators(Arithmetic, Assignment, Increment, Decrement, Comparison, Logical, Bitwise) - [`+` , `-` , `*` , `/` ,`++` , `--` , `==` , `===` , `!=` ,`and more` ]
 - Variable hoisting in JavaScript
 
 ## 12 . Loops & Conditionals in Javascript
@@ -216,7 +216,7 @@
 - Event Handling in JavaScript - [`addEventListner()`, `event bubbling`, `event.target` , `event capturing`]
 - Understanding Scroll Events, Mouse Events, Key Events and Strict Mode.
 - Working with Forms and Input Elements **-** [`Accessing Form Data` , `Validating Forms` , `preventDefault()` ,`onsubmit`, `onchange`]
-- Working with Classes ****Adding, Removing , Toggling  (classList methods)
+- Working with Classes \*\*\*\*Adding, Removing , Toggling (classList methods)
 - Browser Events - [`DOMContentLoaded` , `load` , `resize` , `scroll`]
 
 ## 17. Using Browser Functionalities in JavaScript
@@ -236,7 +236,7 @@
 ## 19. **Asynchronous** Programming JavaScript
 
 - Introduction to Asynchrony in JavaScript.
-- What is `Event loop` and how it works in JavaScript - **`Task Queue`  , `Microtask Queue`**
+- What is `Event loop` and how it works in JavaScript - **`Task Queue` , `Microtask Queue`**
 - Introduction to `callbacks` and Problems in Callbacks
 - Understanding `promises` - `pending` , `resolved` , `rejected`
 - Chaining Multiple Handlers and Promise Methods - `Promise.race()` , `Promise.all()` , `Promise.any()` , `Promise.allSettled()` .
@@ -303,7 +303,7 @@
 - Create Components with `functions`.
 - Importing css file/stylesheet in react and Adding a CSS Modules Stylesheet - `Styled Components` , `Dynamic styling with styled-components` .
 - Creating a state and Manage State using setState - `What is State?` , `setState` , `useState` , `Batching`.
-- Creating `Parameterised Function Components` in  React.
+- Creating `Parameterised Function Components` in React.
 - `React Props`: Passing Data to Components.
 - Function chaining in React and Conditional Rendering - Rendering Array Data via `map` , Eliminating Array Data via `filter`.
 
@@ -323,12 +323,12 @@
 - Understanding React Hooks
 - Rules of hooks.
 - Commonly Used Hooks:
-    - `useState`
-    - `useEffect`
-    - `useContext`
-    - `useRef`
-    - `useCallback`
-    - `useMemo`
+  - `useState`
+  - `useEffect`
+  - `useContext`
+  - `useRef`
+  - `useCallback`
+  - `useMemo`
 - `Custom Hooks`: When and How to Create Them
 
 ### 6. Navigation in the React with **React Router 🚧**
@@ -360,7 +360,7 @@
 - Introduction to Forms in React.
 - Building Basic Forms.
 - Creating form elements like `input`, `textarea`, `select`, etc.
-- Two way binding with react [ `input` , `textarea`  ].
+- Two way binding with react [ `input` , `textarea` ].
 - Handling Form Events [ `onChange` , `onSubmit` , `event.preventDefault()` ].
 - Validation in React Forms : `client-side form validation.`
 - Integrating Forms with APIs.
@@ -371,9 +371,9 @@
 
 - Code Splitting with `React Lazy` and Suspense
 - Avoids redundant calculations by caching Using Memoization Techniques:
-    - `React.memo`
-    - `useMemo`
-    - `useCallback`
+  - `React.memo`
+  - `useMemo`
+  - `useCallback`
 - Avoiding Re-Renders using `useState` ,
 - Optimizing Component Structure
 - Performance Profiling Tools using `Chrome DevTools` , `Lighthouse` , `Web Vitals` ,Largest Contentful Paint (LCP), First Input Delay (FID)
@@ -432,7 +432,7 @@
 - Serving A Response to the Browser and Understanding Responses.
 - Serving First HTML Page Using Response.
 - `Routing` in HTTP Servers.
-- Understanding Status Code - `1XX`  ,  `2XX`  ,  `3XX` ,`404 - Not Found` , `200 - success` , `500 - Internal Server error` , `422 - Invalid Input` , `403 - the client does not have access rights to the content` , etc.
+- Understanding Status Code - `1XX` , `2XX` , `3XX` ,`404 - Not Found` , `200 - success` , `500 - Internal Server error` , `422 - Invalid Input` , `403 - the client does not have access rights to the content` , etc.
 - Installing `Nodemon` for Automatic Server Restarts.
 
 ### 3. Some talk on Different Architectures 🏯
@@ -498,7 +498,7 @@
 - Validating API Inputs Using libraries like `express-validator` or `Sanitization` .
 - Security Handling - Rate Limiting with `express-rate-limit` ,`XSS Attack` , `CSRF Attack` , `DOS Attack`.
 
-### **10. Database Optimization for Fast response  🧘🏻**
+### **10. Database Optimization for Fast response 🧘🏻**
 
 - `Indexing` for Performance with MongoDB :- `Single-Field Indexes` , `Compound Indexes` , `Text Indexes` ,`Wildcard Indexes`.
 - Best practice with Indexing `explain()`.
@@ -525,7 +525,7 @@
 - Understanding the Basic Structure of application.
 - Learning File Naming Conventions, Git Configuration,
 - Understanding Important Folders :- `src/` ,`config/` ,`routes/` ,`utils/` .
-- Role of `package.json` , `ENV`  and `.gitignore` .
+- Role of `package.json` , `ENV` and `.gitignore` .
 - Production Environment - `PM2` , `Error & Response Handling Configuration` , `CORS Configuration` , `async-handler.js`.
 - Using and Configuring `ESLint` and `Prettier` for code formatting.
 - Testing APIs using `Postman`.
@@ -674,7 +674,7 @@
 - `do-while` loop.
 - Understanding the Use of Nested Loops.
 - Learning Pattern Programming - `Pyramid patterns` , `right-angled triangles`, and `inverted triangles`.
-- Understanding Control Flow statement   `break` and `continue`
+- Understanding Control Flow statement `break` and `continue`
 - Learning how to set correct conditions to avoid getting stuck in infinite loops.
 - Understand how to optimize nested loops for better performance and reduced time complexity.
 
@@ -684,7 +684,7 @@
 - Basic Manipulations - `insertion` , `deletion` , `updation`
 - Accessing Elements in Arrays .
 - Traversing Elements in Arrays .
-- Array Algorithms -  `Two Pointer Algorithm`, `Rotation Algorithms` , `Kadane’s Algorithm` , etc
+- Array Algorithms - `Two Pointer Algorithm`, `Rotation Algorithms` , `Kadane’s Algorithm` , etc
 
 ## 4. Object-Oriented Programming (OOP) in JavaScript
 
@@ -706,7 +706,7 @@
 - Learning Escape Characters - `\n` , `\t` , `\’`
 - Algorithms on Strings - `Reverse a String` , `Check for Palindrome` , `Find Longest Common Prefix` , `Character Frequency Count` , `Anagram Check`
 
-## 6. Time  and Space  Complexity
+## 6. Time and Space Complexity
 
 - Understanding Time Complexity
 - Understanding the `Big-O` Notation.
@@ -758,7 +758,7 @@
 
 ## 11. Hashing (Set and Map) in JavaScript
 
-- Understanding Hashing in JavaScript - `s**et` , `map`**
+- Understanding Hashing in JavaScript - `s**et` , `map`\*\*
 - Working with `Set` in JavaScript
 - Methods in Set - `add(value)` , `delete(value)` , `has(value)` , `clear()` , `size`
 - Working with `Map` in JavaScript
@@ -893,7 +893,7 @@
 - Understand the relationship between `work`, `time`, and `efficiency`.
 - Solve problems involving `individuals` or `groups` working together.
 - Analyze scenarios like `alternating work schedules` and `work completion rates`.
-- Practice `MCQs`  problems.
+- Practice `MCQs` problems.
 
 ### 2. Pipes and Cisterns
 
