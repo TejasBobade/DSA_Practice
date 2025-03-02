@@ -58,4 +58,46 @@ function fib(n) {
     return fib(n - 1) + fib(n -2);
 }
 
-console.log(fib(6));
+// console.log(fib(6));
+
+
+
+// Oues 5 - Reverse a String
+// Input: "Hello"   ------>>>>> Output: "olleh"
+
+function reverseString(str) {
+    if(str === ""){
+        return "";
+    }
+    return reverseString(str.substr(1)) + str.charAt(0);
+}
+
+// console.log(reverseString("hello"));
+
+
+
+// Ques 6 - Subsets ( Backtracking Algorithm using Recursion )
+// Given an interger array nums of unique elements, return all possible subsets ( the power set ).
+// The solution set must not contain duplicate subsets. Return the solution in any order.
+
+// Input: [1,2,3]   ----->>>>>  Output: [[],[1],[2],[1,2],[3],[1,3],[2,3],[1,2,3]]
+// Input: [0]       ----->>>>>  Output: [[],[0]]
+
+function subsets(nums) {
+    let result = [];
+    let temp = [];
+
+    function recursiveSubsets (nums, i){
+        if(i === nums.length){
+            return result.push([...temp]);
+        }
+        temp.push(nums[i]);
+        recursiveSubsets(nums, i + 1);
+        temp.pop();
+        recursiveSubsets(nums, i + 1);
+    }
+    recursiveSubsets(nums,0);
+    return result;
+}
+
+console.log(subsets([1,2,3]));
