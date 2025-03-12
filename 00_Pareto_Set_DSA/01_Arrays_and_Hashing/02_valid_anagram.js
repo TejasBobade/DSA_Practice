@@ -1,4 +1,5 @@
 // Easy - > https://leetcode.com/problems/valid-anagram/description/
+// 02_valid_anagram.js
 // Valid Anagram
 // Given two strings s and t, return true if the two strings are anagrams of each other, otherwise return false.
 

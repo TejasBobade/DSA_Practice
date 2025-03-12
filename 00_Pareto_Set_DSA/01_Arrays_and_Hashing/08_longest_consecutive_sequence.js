@@ -1,3 +1,4 @@
+// 08_longest_consecutive_sequence.js
 // Medium
 // Longest Consecutive Sequence
 // Given an array of integers nums, return the length of the longest consecutive sequence of elements that can be formed.
