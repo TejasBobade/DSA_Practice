@@ -1,3 +1,5 @@
+// Path - > cd 00_Pareto_Set_DSA , cd 01_Arrays_and_Hashing
+
 // Easy
 // Contains Duplicate
 // Given an integer array nums, return true if any value appears more than once in the array, otherwise return false.

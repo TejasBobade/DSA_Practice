@@ -12,12 +12,12 @@
 // -1000 <= nums[i] <= 1000
 // 1 <= k <= number of distinct elements in nums.
 
-// 1. 
+// 1.
 class Solution {
-    /**
-     * @param {number[]} nums
-     * @param {number} k
-     * @return {number[]}
-     */
-    topKFrequent(nums, k) {}
+  /**
+   * @param {number[]} nums
+   * @param {number} k
+   * @return {number[]}
+   */
+  topKFrequent(nums, k) {}
 }
